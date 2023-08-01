@@ -70,6 +70,14 @@ main {
   background-repeat: no-repeat;
   background-position: 0px -219px;
 }
+.ankete-aside___left h2 {
+  display: none;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 400;
+  background-color: #8edde4;
+  letter-spacing: 1px;
+}
 
 .anketa-section___right {
   width: 66%;

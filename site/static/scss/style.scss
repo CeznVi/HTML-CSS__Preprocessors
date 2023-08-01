@@ -92,6 +92,15 @@ main{
     background-image: url('../img/maket.png');
     background-repeat: no-repeat;
     background-position: 0px -219px;
+
+    h2 {
+        display: none;
+        text-align: center;
+        font-family: $h2sectionTextStyle;
+        font-weight: $h2sectionFontWeight;
+        background-color: $backMainColor;
+        letter-spacing: 1px;
+    }
 }
 
 .anketa-section___right {
